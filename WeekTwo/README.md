@@ -5,7 +5,7 @@ This folder contains notes and concepts for Week-2 of the AI and Machine Learnin
 
 ## Contents
 - Notes.md — detailed explanations of AI project steps, business value mapping, frameworks, and deployment options.
-- images/ — optional diagrams.
+
 
 ## Key Topics
 - Collecting and preparing data
